@@ -2,3 +2,4 @@ Pandas
 numpy
 scikit-learn
 gradio
+streamlit
